@@ -1,0 +1,50 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.cuadro1{
+    height: 200px;
+    width: 200px;
+    margin: 5px;
+  
+    
+}
+.cuadro2{
+    height: 200px;
+    width: 200px;
+   margin: 5px;
+    
+}
+.cuadro3{
+    height: 200px;
+    width: 200px;
+    margin: 5px;
+    
+}
+.cuadro4{
+    height: 200px;
+    width: 200px;
+    margin: 5px;
+    
+}
+.key{
+    height: 200px;
+    width: 200px;
+    border: 3px solid black;
+    margin: 5px;
+    
+}
+.Hola{
+    margin: 5px;
+}
+.caja{
+    height: 200px;
+    width: 200px;
+    border: 3px solid black;
+    margin: 5px;
+    
+   
+
+}
